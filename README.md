@@ -1,0 +1,1 @@
+This project implements numerical experiments to illustrate and validate the asymptotic results proved in a discrete Poisson-driven price model studied during my research internship.
